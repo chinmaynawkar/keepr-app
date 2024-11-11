@@ -35,7 +35,7 @@ const AuthLayout = ({ children }: { children: React.ReactNode }) => {
       <section className="flex flex-1 flex-col items-center bg-white p-4 py-10 lg:justify-center lg:p-10 lg:py-0">
         <div className="mb-16 lg:hidden">
           <Image
-            src="/assets/icons/logo-full-brand.svg"
+            src="/icons/keepr-brand-full.svg"
             alt="logo"
             width={224}
             height={82}
